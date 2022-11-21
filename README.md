@@ -10,7 +10,8 @@
 * gender: 0-female, 1-male (for simplicity)  
 * ethnic: 0, 1, 2 (just made up)  
 * income00: annual income at the time of creation   
-* industry: (ordered with increasing average annual salary, according to govt data.)   
+* industry: (ordered with increasing average annual salary, according to govt data.)
+
     0. leisure n hospitality  
     1. retail   
     2. Education   
@@ -30,6 +31,8 @@ Utopia is a subjective term and hence I have first defined the utopia as a place
  ii) Ethnicity in various Job Sector 
 4. Equal education opportunities for both men and women.
 
+Used Quarto to generate detailed report for the same.
+https://quarto.org/
 
 
 
