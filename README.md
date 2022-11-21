@@ -27,9 +27,9 @@ Utopia is a subjective term and hence I have first defined the utopia as a place
  ii) Ethnicity
 3. Equal Job Opportunities 
  i) Equal distribution of Gender 
- ii) Ethnicity(@fig-industry-ethnic) in various Job Sector 
+ ii) Ethnicity in various Job Sector 
 4. Equal education opportunities for both men and women.
-5. Happy married life among people
+
 
 
 
